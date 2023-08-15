@@ -1,0 +1,16 @@
+a{
+    background-color: green;
+    border:2px solid green;
+    width: fit-content;
+    height: fit-content;
+    color: white;
+    padding: 10px;
+   
+}
+#adds{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: rgba(204, 193, 178, 0.589);
+}
